@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikolai Malchikov
 
-### Software Engineer — Backend • Distributed Systems • Go • Kafka • Temporal
+### Software Engineer — Backend • Distributed Systems • Payments • Event‑Driven Architecture • Go • Kafka
 
 I build reliable backend systems with a strong focus on event‑driven architectures, workflow orchestration, and high‑load data processing.  
 7+ years of experience designing and delivering production‑ready services, payment workflows, and distributed components.
