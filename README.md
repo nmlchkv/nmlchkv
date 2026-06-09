@@ -25,7 +25,7 @@ https://malchikov.dev/cv/context/myautodata
 
 ## 🧠 Tech Stack
 
-**Languages:** Go (primary), PHP, SQL  
+**Languages:** Go (primary), Python, SQL  
 **Architecture:** Microservices, Distributed Systems, Event‑driven, CQRS, Outbox  
 **Messaging:** Kafka, Redis Streams (consumer groups, fan‑out, partitioning)  
 **Workflow Orchestration:** Temporal  
