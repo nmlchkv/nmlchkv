@@ -7,22 +7,6 @@ I build reliable backend systems with a strong focus on event‑driven architect
 
 ---
 
-## 🔗 My Work
-
-**🌐 Website (CV + Case Studies + Product Context)**  
-https://malchikov.dev
-
-**📄 CV Index**  
-https://malchikov.dev/cv
-
-**🧩 Payment Orchestration Case (Temporal + Kafka)**  
-https://malchikov.dev/cv/cases/payment-orchestration
-
-**🚗 MyAutoData — Technical Product Context**  
-https://malchikov.dev/cv/context/myautodata
-
----
-
 ## 🧠 Tech Stack
 
 **Languages:** Go (primary), Python, SQL  
