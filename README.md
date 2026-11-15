@@ -39,7 +39,6 @@ https://github.com/nmlchkv/laravel-card-processor
 ## 📫 Contacts
 
 **LinkedIn:** https://www.linkedin.com/in/malchikov  
-**Website:** https://malchikov.dev  
 **Email:** malchikov.ne@gmail.com
 
 ---
